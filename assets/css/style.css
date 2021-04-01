@@ -40,6 +40,11 @@ body {
     font-weight: 900;
     letter-spacing: 1px;
     min-height: 70px;
+    background-color: indianred;
+}
+
+.brand-name{
+    color: white  !important;
 }
 
 
@@ -68,7 +73,7 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(38, 57, 88, 0.89);
+        background:rgba(235, 198, 198, 0.884);
         min-height: 500px;
     }
 
@@ -198,7 +203,7 @@ h1::after {
   FACULTY STYLES 
   ===================================*/
 #faculty-sec {
-    background-color: #000;
+    background-color: rgb(235, 198, 198);
     color: #fff;
 }
 
@@ -263,7 +268,7 @@ h1::after {
   ===================================*/
 #footer {
     padding:5px 20px;
-    background-color:#2d3d5a;
+    background-color: indianred;
     text-align:right;
     color:#fff;
     font-size:15px;
