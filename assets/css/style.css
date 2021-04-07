@@ -204,11 +204,11 @@ h1::after {
   ===================================*/
 #faculty-sec {
     background-color: rgb(235, 198, 198);
-    color: #fff;
+    color:black;
 }
 
     #faculty-sec .header-line {
-        color: #fff;
+        color: black;
     }
 .faculty-div h4 {
     line-height:30px;
